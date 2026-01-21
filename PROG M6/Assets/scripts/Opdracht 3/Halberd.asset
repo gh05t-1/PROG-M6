@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f5086ff4db5f7042aa6466729684fb0, type: 3}
   m_Name: Halberd
   m_EditorClassIdentifier: 
-  itemName: 
+  itemName: Halberd
   itemType: 0
   stats:
     damage: 0
     defense: 0
     weight: 0
-  basePrice: 0
-  icon: {fileID: 0}
+  basePrice: 400
+  icon: {fileID: 21300000, guid: 5cb068614007fa44d81cd5d80455a680, type: 3}

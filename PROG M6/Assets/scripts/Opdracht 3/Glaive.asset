@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f5086ff4db5f7042aa6466729684fb0, type: 3}
   m_Name: Glaive
   m_EditorClassIdentifier: 
-  itemName: 
+  itemName: Glaive
   itemType: 0
   stats:
     damage: 0
     defense: 0
     weight: 0
-  basePrice: 0
-  icon: {fileID: 0}
+  basePrice: 300
+  icon: {fileID: 21300000, guid: 4b1003168019ea64ab076b79801b1d96, type: 3}

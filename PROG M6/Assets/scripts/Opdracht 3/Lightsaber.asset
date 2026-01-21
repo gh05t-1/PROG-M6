@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f5086ff4db5f7042aa6466729684fb0, type: 3}
   m_Name: Lightsaber
   m_EditorClassIdentifier: 
-  itemName: 
+  itemName: Light saber
   itemType: 0
   stats:
     damage: 0
     defense: 0
     weight: 0
-  basePrice: 0
-  icon: {fileID: 0}
+  basePrice: 200
+  icon: {fileID: 21300000, guid: db5ef036d3a354c4988dcf4ddf2b0adc, type: 3}
