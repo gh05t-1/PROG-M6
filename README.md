@@ -15,6 +15,7 @@ in de code staan meerdere scriptable objects die veschillden properties hebben
 ![opdracht 3 script folder](<PROG M6/Assets/scripts/Opdracht 3>)
 
 # opdracht 4 delegates
+in de gif loopt de speler rond en pakt dingen op terwijl de ui het update
 ![alt text](m6_4.gif)
-
+in de code update de ui met een action event die getriggered word op een ontriggerenter 
 ![opdracht 4 script folder](<PROG M6/Assets/scripts/opdracht 4>)
