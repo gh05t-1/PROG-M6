@@ -3,12 +3,16 @@ using UnityEngine;
 
 public class coin : MonoBehaviour
 {
-    public int coinAmount = 0;
-
-    public Action onCoinCollected;
     
-    public void CoinPickedUp()
+
+    public static Action onCoinCollected;
+
+    private void OnTriggerEnter(Collider other)
     {
-        onCoinCollected?. Invoke();
+        if (other.CompareTag("Player"))
+        {
+            onCoinCollected.Invoke();
+            Destroy(gameObject);
+        }
     }
 }
