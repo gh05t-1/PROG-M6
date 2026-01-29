@@ -1,4 +1,8 @@
+# repo m5
+https://github.com/gh05t-1/Prog-M5
+
 # opdracht 1 code conventions
+
 in deze gif zie je hoe in de console objecten in en uit een list woorden gehaald en gelogged worden in de console
 ![alt text](m6_1.gif)
 heg goevend met code conventions 
